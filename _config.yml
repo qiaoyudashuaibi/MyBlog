@@ -3,9 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
+# 标题
 title: 乔宇的博客
-subtitle:
-description:
+# 副标题
+subtitle: 乔宇的编程之路
+# 网站描述
+description: 地不长无名之草，天不生无用之人
 keywords:
 author: 乔 宇
 language: zh-Hans
