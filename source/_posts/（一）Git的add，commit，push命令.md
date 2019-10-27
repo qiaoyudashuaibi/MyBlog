@@ -7,7 +7,7 @@ tags: Git
 
 我们先来理解一下Git的工作区、暂存区和版本库。  
 
-工作区：就是电脑中可以看的见得目录。
+工作区：就是电脑中可以看的见的目录。
 暂存区：英文名叫stage或index，一般存在.git目录下的index文件夹下（.git/index），所以我们把暂存区有时也叫作索引。
 版本库：工作区有个隐藏的目录.git，叫做Git的版本库。  
 
@@ -24,7 +24,7 @@ tags: Git
     将远程仓库中的master中的信息同步到本地仓库master中
     git pull origin master
     将本地版本库上传到远程服务器
-    git push origin maser 
+    git push origin master 
 ```
 
 这篇文章只是简单的记录一下提交修改文件的简单流程，详细的解释会在以后的文章中出现。
